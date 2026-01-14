@@ -72,8 +72,8 @@ Mi objetivo es crear proyectos que puedan funcionar correctamente en **entornos 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoBarbosaDeveloper&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoBarbosaDeveloper&layout=compact&theme=transparent)
 
 ---
 
